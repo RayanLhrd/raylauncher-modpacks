@@ -7,15 +7,8 @@
       "description": "Pack speedrun : rush l'Ender Dragon avec les potes.",
       "icon_url": "https://raw.githubusercontent.com/RayanLhrd/raylauncher-modpacks/main/rush-dragon/icon.png",
       "mrpack_url": "https://github.com/RayanLhrd/raylauncher-modpacks/raw/main/rush-dragon/pack.mrpack",
-      "version": "1.2.0"
-    },
-    {
-      "id": "cobblemontest",
-      "name": "Cobbleverse — Pokemon Adventure",
-      "description": "Aventure Pokémon avec Cobblemon. Pack lourd (~200 Mo) — premier install un peu long.",
-      "icon_url": "https://raw.githubusercontent.com/RayanLhrd/raylauncher-modpacks/main/cobblemontest/icon.png",
-      "mrpack_url": "https://github.com/RayanLhrd/raylauncher-modpacks/raw/main/cobblemontest/pack.mrpack",
-      "version": "1.0.0"
+      "version": "1.2.0",
+      "recommended_memory_mb": 6144
     }
   ]
 }
