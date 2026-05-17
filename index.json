@@ -20,7 +20,7 @@
       "icon_url": "https://raw.githubusercontent.com/RayanLhrd/raylauncher-modpacks/main/zgueg-create/icon.png",
       "mrpack_url": "https://github.com/RayanLhrd/raylauncher-modpacks/raw/main/zgueg-create/pack.mrpack",
       "version": "2.0.0",
-      "recommended_memory_mb": 8192
+      "recommended_memory_mb": 10240
     }
   ]
 }
